@@ -2764,3 +2764,8 @@ lib/
 - можешь даже запускать и выдавать примеры что выдаст в консоли и так далее 
 - если что , делай код без комментариев "--" и так далее в луа 
 - нужен фулл чистый код
+- гитхаб чапо: https://github.com/chaposcripts/arizona-rp-alternative-launcher у него еще лаунчер на го написан
+-  даже дискорд https://github.com/chaposcripts/go-dota2-discord-rich-presence.git
+- ДАЖЕ ТЕЛЕГРАМ https://github.com/chaposcripts/dolbogram-lua-telegram-bot-api.git | https://github.com/chaposcripts/gta-sa-plants-vs-zombies.git
+- его гитхаб не нужно гитать в наш репо просто посмотри что за скрипты, скачай открой, посмотри картинки и работаем по этим апи.
+
